@@ -1,0 +1,1 @@
+"This is a supercollider code that recreates the warmpad synth sound that I heared in Sibelius program. May be not exactly but it sounds like what I want from a warm pad. It also uses MIDI input to be used as an instrument. If it suits you well have fun!" 
